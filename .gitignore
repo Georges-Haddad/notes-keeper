@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+.DS_Store
+
+# Build folders
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Logs
+logs
+*.log
+
+# Coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
